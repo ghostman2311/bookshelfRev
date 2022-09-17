@@ -1,7 +1,15 @@
-# Why are we wrapping the BrowserRouter to only Authenticated App?
+# Default Excercise
 
-# What is working of useParams hook?
+## Why are we wrapping the BrowserRouter to only Authenticated App?
 
-# How to style Link using emotion?
+## What is working of useParams hook?
 
-# Difference between element and component in Route?
+## How to style Link using emotion?
+
+## Difference between element and component in Route?
+
+# Extra Credit
+
+## What is setupProxy.js in create react app?
+
+## How to useMatch hook from react router dom
