@@ -12,4 +12,6 @@
 
 ## What is setupProxy.js in create react app?
 
+## How to setup serve.json file?
+
 ## How to useMatch hook from react router dom
