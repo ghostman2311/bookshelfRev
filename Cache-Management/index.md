@@ -18,3 +18,12 @@
 - What is refetchOnWindowFocus?
 - How to use errorBoundary in react query? Why do we even use it ?
 - What is retry in queryConfig?
+
+# UseMutation Errors
+
+- How to show error in useMutation ?
+- How to show custom error in useMutation? Why does useAysnc show error? Tell in brief.
+
+# Adding Spinner for the notes
+
+- How to add spinner for the notes?
