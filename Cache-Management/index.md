@@ -11,3 +11,10 @@
 # Make Hooks
 
 - What does we return from useListItems hooks?
+
+# React Query Config Provider
+
+- How to pass queryConfig on ReactQueryConfigProvider?
+- What is refetchOnWindowFocus?
+- How to use errorBoundary in react query? Why do we even use it ?
+- What is retry in queryConfig?
