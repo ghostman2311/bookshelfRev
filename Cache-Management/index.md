@@ -27,3 +27,19 @@
 # Adding Spinner for the notes
 
 - How to add spinner for the notes?
+
+# Prefetch the Book search query
+
+- What is the problem here we are trying to solve here? Explain in words please
+- How to run a function on Unmounting?
+- What are the function to remove data from cache?
+- How to prefetch the data in react-query?
+
+# Adding books to the query Cache
+
+- We have cache data in bookSearch How can we pass it to book key?
+- How to pass config object?
+- How to write on success function in config?
+- How to write query key?
+- Do it in listItem too?
+- Create queryDataCache function and why we created this?
