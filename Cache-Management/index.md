@@ -22,7 +22,7 @@
 # UseMutation Errors
 
 - How to show error in useMutation ?
-- How to show custom error in useMutation? Why does useAysnc show error? Tell in brief.
+- **How to show custom error in useMutation? Why does useAysnc show error? Tell in brief.**
 
 # Adding Spinner for the notes
 
