@@ -40,6 +40,7 @@
 - We have cache data in bookSearch How can we pass it to book key?
 - How to pass config object?
 - How to write on success function in config?
+- **How to write loop inside the onSuccess function?**
 - How to write query key?
 - Do it in listItem too?
 - Create queryDataCache function and why we created this?
