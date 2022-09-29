@@ -44,3 +44,12 @@
 - How to write query key?
 - Do it in listItem too?
 - Create queryDataCache function and why we created this?
+
+# Add optimistic updates and recovery
+
+- What does onMutate function will accept?
+- How to pass function to the queryCache.setQueryData?
+- How to map through old list item?
+- How onError work? What does it accept from onMutate?
+- How to return initial cache state from the onMutate function?
+- Please do it for useRemoveListItem.
