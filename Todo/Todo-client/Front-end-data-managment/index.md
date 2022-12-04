@@ -30,3 +30,8 @@
 ## Prevent Unauthorized Data modification
 
 1. How findOne and Update works?
+
+
+## Use middleware to reduce repetition
+1. How to add middleware in node app
+2. Which approach we are using to create middleware?
