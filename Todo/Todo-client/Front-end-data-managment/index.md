@@ -26,3 +26,7 @@
 
 1. How to find note and check the condition
 2. What are remaining code bits we have to refactor
+
+## Prevent Unauthorized Data modification
+
+1. How findOne and Update works?
